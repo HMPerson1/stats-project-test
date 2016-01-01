@@ -9,7 +9,7 @@ A program to calculate statistics for a dice game.
 ### Dependancies
 - [template-haskell](https://hackage.haskell.org/package/template-haskell-2.10.0.0)
 
-(using [stack](haskellstack.org) with resolver [lts-3.12](https://www.stackage.org/lts-3.12))
+(using [stack](http://haskellstack.org) with resolver [lts-3.12](https://www.stackage.org/lts-3.12))
 
 ### License
 GPL3
